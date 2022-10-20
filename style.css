@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.warn {
+    text-align: center;
+    margin-top: 85px;
+    font-family: Arial,Helvetica,sans-serif;
+    border: 1px solid #444;
+    margin-left: 220px;
+    margin-right: 220px;
+    color: #444;
+    font-size: 12px;
+    padding: 2rem;
+    
+}
+.big {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+ }
+button {
+    width: 400px;
+    height: 55px;
+    background-color: royalblue;
+    color: white;
+    font-size: 25px 
+    
+}
+.img {
+    width: 75px;
+    height: 40px;
+}
+button {
+    vertical-align: middle;
+}
